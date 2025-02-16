@@ -2,6 +2,6 @@
   "name": "@test/package-1",
   "version": "1.0.0",
   "dependencies": {
-    "pify": "^2.0.0"
+    "pify": "^6.1.0"
   }
 }
