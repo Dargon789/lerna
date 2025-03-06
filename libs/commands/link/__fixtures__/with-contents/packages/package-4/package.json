@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "@test/package-1": "^0.0.0",
-    "package-3": "^1.0.0"
+    "package-3": "^5.6.7"
   }
 }
